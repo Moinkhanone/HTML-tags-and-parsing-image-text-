@@ -11,4 +11,4 @@ A video is made up of a number of pictures (called frames), rendered one after a
 After these two steps, you'll now have a set of images. You just have to create a video out of these images.
 Here's an example of a java library xuggler, that helps you create video out of images - http://examples.javacodegeeks.com/desktop-java/xuggler/create-video-from-image-frames-with-xuggler/
 
-You really dont need to create an android app, nor has he asked for one. You can do this completely in java.
+
